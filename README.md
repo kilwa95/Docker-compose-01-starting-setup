@@ -52,7 +52,7 @@ docker-compose up
 ```
 #### Pour exécuter les services en arrière-plan (détaché) :
 ```bash
-docker-compose up
+docker-compose up -d --build
 ```
 #### Arrêter les services
 
